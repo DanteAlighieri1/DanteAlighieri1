@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/DanteAlighieri1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanteAlighieri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteAlighieri&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanteAlighieri1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteAlighieri1&layout=compact&langs_count=7&theme=dark"/>
   
 
 </div>
